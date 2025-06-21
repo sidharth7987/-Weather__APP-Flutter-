@@ -46,13 +46,3 @@ weather_app_flutter/
 
 ---
 
-## 📸 Screenshots
-
-### 🌤️ Home Screen  
-![Home Screen](ScreenShots/home_screen.png)
-
-### 📍 Location Search  
-![Search](ScreenShots/search_location.png)
-
-### 🌧️ Weather Details  
-![Details](ScreenShots/weather_details.png)
