@@ -32,3 +32,27 @@ It displays real-time weather information such as temperature, conditions, locat
 
 ## 📂 Project Structure
 
+weather_app_flutter/
+├── lib/
+│ ├── main.dart
+│ ├── screens/
+│ ├── widgets/
+│ └── services/
+├── assets/
+├── pubspec.yaml
+├── android/
+├── ios/
+└── README.md
+
+---
+
+## 📸 Screenshots
+
+### 🌤️ Home Screen  
+![Home Screen](ScreenShots/home_screen.png)
+
+### 📍 Location Search  
+![Search](ScreenShots/search_location.png)
+
+### 🌧️ Weather Details  
+![Details](ScreenShots/weather_details.png)
